@@ -17,6 +17,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
+//todo git test 変更
 Route::get('foo', function () {
     return 'Hello World';
 });
