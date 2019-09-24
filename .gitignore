@@ -1,0 +1,4 @@
+/.idea
+/.vscode
+/docker/ash/.ash_history
+/logs/*
